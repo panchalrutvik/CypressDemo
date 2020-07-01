@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^1.3.1",
+    "cypress": "^4.8.0",
+    "cypress-file-upload": "^4.0.7",
+    "cypress-xpath": "^1.4.0"
+  },
+  "dependencies": {
+    "cypress-drag-drop": "^1.1.1"
+  }
+}
